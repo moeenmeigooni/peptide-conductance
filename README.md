@@ -16,8 +16,8 @@ Directories organized by amino acid composition.
 
 
 `analyze-extract.ipynb` notebook contains code for loading/analyzing trajectories and extracting relevant conformers for NEGF/DFT calculations, and for generating plots. Packages used include:
- - mdtraj 1.9.3 for loading trajectories
- - numpy 1.21.5 and custom functions (jit-accelerated with numba 0.53.1) for analysis e.g. computing distances and angles
+ - MDTraj 1.9.3 for loading trajectories
+ - NumPy 1.21.5 and custom functions (jit-accelerated with numba 0.53.1) for analysis e.g. computing distances and angles
  - scikit-learn 1.0.2 for PCA
- - pyemma 2.5.11 for free energy plots
- - matplotlib 3.5.2 for all other plots
+ - PyEMMA 2.5.11 for free energy plots
+ - Matplotlib 3.5.2 for all other plots
