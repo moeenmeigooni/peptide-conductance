@@ -21,3 +21,6 @@ Directories organized by amino acid composition.
  - scikit-learn 1.0.2 for PCA
  - PyEMMA 2.5.11 for free energy plots
  - Matplotlib 3.5.2 for all other plots
+
+
+Solvent-stripped trajectory files can be found at doi.org/10.5281/zenodo.7843691
