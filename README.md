@@ -2,7 +2,7 @@
 Python scripts for MD simulations and conformational analysis of peptides in STM break junction.
 
 
-Directories organized by amino acid composition. Run scripts (`run_hold.sh`) are configured for running on DGX-2 with 16xV100 GPUs.
+Directories organized by amino acid composition. 
 
 
 `build` folder contains all files necessary for creating 16 replicates of the given peptide with randomized phi,psi angles. `build.sh` runs necessary scripts. Packages/softwares used include:
@@ -10,7 +10,7 @@ Directories organized by amino acid composition. Run scripts (`run_hold.sh`) are
  - PeptideBuilder 1.1.0
 
 
-`hold*-orient-efield` folder contains python script for OpenMM simulations with custom potentials for the given holding stage. Packages/softwares used include:
+`hold*-orient-efield` folder contains python script for OpenMM simulations with custom potentials for the given holding stage. Run scripts provided (`run_hold.sh`) are configured for running on DGX-2 with 16xV100 GPUs. Packages/softwares used include:
  - OpenMM 7.7.0
  - MDTraj 1.9.3
 
