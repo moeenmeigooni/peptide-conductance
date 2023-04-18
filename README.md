@@ -1,5 +1,5 @@
 # peptide-conductance
-Python scripts for MD simulations and conformational analysis of peptides in STM break junction
+Python scripts for MD simulations and conformational analysis of peptides in STM break junction.
 
 
 Directories organized by amino acid composition
