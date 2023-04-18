@@ -25,4 +25,4 @@ Directories are organized by amino acid composition.
  - Matplotlib 3.5.2 for all other plots
 
 
-Solvent-stripped trajectory files can be found at doi.org/10.5281/zenodo.7843691
+Solvent-stripped trajectory files are available at doi.org/10.5281/zenodo.7843691
