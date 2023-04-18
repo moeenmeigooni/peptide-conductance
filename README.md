@@ -4,7 +4,7 @@ R. Samajdar, M. Meigooni, H. Yang, J. Li, M. Mosquera, N. Jackson, E. Tajkhorshi
 
 
 
-Directories organized by amino acid composition. 
+Directories are organized by amino acid composition. 
 
 
 `build` folder contains all files necessary for creating 16 replicates of the given peptide with randomized phi,psi angles. `build.sh` runs necessary scripts. Packages/softwares used include:
