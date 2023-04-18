@@ -7,7 +7,7 @@ R. Samajdar, M. Meigooni, H. Yang, J. Li, M. Mosquera, N. Jackson, E. Tajkhorshi
 Directories are organized by amino acid composition. 
 
 
-`build` folder contains all files necessary for creating 16 replicates of the given peptide with randomized phi,psi angles. `build.sh` runs necessary scripts. Packages/softwares used include:
+`build` folders contain all files necessary for creating 16 replicates of the given peptide with randomized phi,psi angles. `build.sh` runs necessary scripts. Packages/softwares used include:
  - VMD 1.9.4a54 (for tcl scripts)
  - PeptideBuilder 1.1.0
 
