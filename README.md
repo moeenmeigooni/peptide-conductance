@@ -2,7 +2,7 @@
 Python scripts for MD simulations and conformational analysis of peptides in STM break junction.
 
 
-Directories organized by amino acid composition
+Directories organized by amino acid composition. Run scripts (`run_hold.sh`) are configured for running on DGX-2 with 16xV100 GPUs.
 
 
 `build` folder contains all files necessary for creating 16 replicates of the given peptide with randomized phi,psi angles. `build.sh` runs necessary scripts. Packages/softwares used include:
