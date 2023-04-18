@@ -1,7 +1,7 @@
 # peptide-conductance
-Python scripts for MD simulations and conformational analysis of peptides in STM break junction corresponding to:
+Python scripts for MD simulations and conformational analysis of peptides in STM break junction corresponding to the following paper:
 
-"The role of secondary structure on charge transport in peptides using single-molecule techniques"
+**The role of secondary structure on charge transport in peptides using single-molecule techniques.** In preparation.
 
 
 
