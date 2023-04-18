@@ -1,4 +1,4 @@
-Python scripts for MD simulations and conformational analysis of peptides in STM break junction corresponding to the following paper:
+Python code for MD simulations and conformational analysis of peptides in STM break junction corresponding to the following paper:
 
 R. Samajdar, M. Meigooni, H. Yang, J. Li, M. Mosquera, N. Jackson, E. Tajkhorshid, C. Schroeder. The role of secondary structure on charge transport in peptides using single-molecule techniques. 2023. *In preparation.*
 
