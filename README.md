@@ -1,7 +1,6 @@
 Python code for MD simulations and conformational analysis of peptides in STM break junction corresponding to the following paper:
 
-R. Samajdar, M. Meigooni, H. Yang, J. Li, M. Mosquera, N. Jackson, E. Tajkhorshid, C. Schroeder. Secondary structure determines electron transport in peptides. 2023. *Submitted.*
-
+R. Samajdar, M. Meigooni, H. Yang, J. Li, X. Liu, N. E. Jackson, M. A. Mosquera, E. Tajkhorshid, and C. M. Schroeder (2024). Secondary structure determines electron transport in peptides. *Proceedings of the National Academy of Sciences*, 121(32):e2403324121.
 
 
 Directories are organized by amino acid composition. 
